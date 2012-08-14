@@ -1,0 +1,25 @@
+div{margin:10px;}
+
+#etiqueta1{
+	border: 2px solid red;
+}
+
+#etiqueta2{
+	border-width: 2px;
+	border: dotted;
+	border-color: #12f3a2; 
+}
+
+#etiqueta3{
+	border-top-style: solid;
+	border-top-color: orange;
+	border-top-width: 6px;
+}
+
+#etiqueta4{
+	border-top:4px solid red;
+	border-left:10px dotted #12da4f;
+	border-right:dashed;
+	border-bottom:inset orange;   
+}
+
