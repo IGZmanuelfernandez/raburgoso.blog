@@ -1,0 +1,85 @@
+/*
+Azul claro #12b1ff
+Fucsia fuerte #ff123a
+Verde limón #12ff61
+*/
+
+*{margin: 0;}
+html,body{height: 100%;}
+
+header{
+	background: #ff123a;
+	border-radius: 10px;
+	margin: 5px;
+	text-align: center;
+	color: white;
+	box-shadow: 0 0 10px #000;
+}
+
+footer{
+	position: fixed;
+	top:95%;
+	left:0;
+	text-align: center;
+	background: #ff123a;
+	width: 100%;
+	height: 5%;
+	color:white;
+}
+
+#parrafo{
+	
+	width: 45%;
+	border: solid #000;
+	background: #12b1ff;
+	color: white;
+	border-radius: 10px;
+	height: 70%;
+	float: left;
+	margin:10px;
+}
+
+.cal{
+
+	width: 45%;
+	border: solid #000;
+	background: #12ff61;
+	color: white;
+	border-radius: 10px;
+	height: 70%;
+	float: left;
+	margin: 10px;
+
+}
+
+p{
+	padding: 20px;
+}
+
+h2 {
+	text-align: center;
+	margin: 20px;
+}
+#num1{
+	position: absolute;
+	top: 30%;
+	left:10%;
+}
+
+#num2{
+	position: absolute;
+	top: 30%;
+	left:25%;
+}
+
+#num3{
+	position: absolute;
+	top: 40%;
+	left:17%;
+}
+
+#sumar{
+	position: absolute;
+	top: 50%;
+	left:19%;
+}
