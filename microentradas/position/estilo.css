@@ -1,0 +1,34 @@
+#etiqueta1{
+	background: red;/*Color para la etiqueta*/
+	position: fixed;
+	top:0;/*posicion en eje Y*/
+	left: 0;/*posicion en eje X*/
+	height: 100px;/*alto de la etiqueta*/
+	width: 100%;/*hancho de la etiqueta*/
+	z-index: 3;/*Posion entre las capas, jerarquia*/
+}
+
+#etiqueta2{
+	background: black;/*Color para la etiqueta*/
+	z-index: 4;/*Posion entre las capas, jerarquia*/
+	width: 100%;/*hancho de la etiqueta*/
+	height: 300px;/*alto de la etiqueta*/
+}
+
+#etiqueta3{
+	background: yellow;/*Color para la etiqueta*/
+	position: absolute;
+	height: 400px;/*alto de la etiqueta*/
+	width: 200px;/*hancho de la etiqueta*/
+	top: 150px;/*posicion en eje Y*/
+	left: 1050px;/*posicion en eje X*/
+	z-index: 2;/*Posion entre las capas, jerarquia*/
+}
+
+#etiqueta4{
+	background: blue;/*Color para la etiqueta*/
+	height: 3000px;/*alto de la etiqueta*/
+	width: 1000px;/*hancho de la etiqueta*/
+	z-index: 1;/*Posion entre las capas, jerarquia*/
+	position:relative;
+}
