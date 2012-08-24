@@ -1,0 +1,26 @@
+div{
+	border: solid;
+}
+*{
+	margin: 10px;
+}
+#cuadro1{
+	display: inline-block;
+	width: 40%
+}
+
+#cuadro2{
+	display: inline-block;
+	width: 40%;
+	
+}
+
+#cuadro3{
+	display: block;
+	
+}
+
+#cuadro4{
+	display: block;
+	
+}
