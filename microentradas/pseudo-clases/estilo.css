@@ -1,0 +1,10 @@
+#link:visited {color:#00FF00;} /* visited link */
+#etiqu:hover {color:#FF00FF;}   /* mouse over link */
+#letra:first-letter{
+	font-size:200%;
+	color:red;
+}
+#linea:first-line{
+	font-size: 20%;
+	color: orange;
+}
