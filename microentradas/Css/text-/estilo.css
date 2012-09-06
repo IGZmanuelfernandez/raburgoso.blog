@@ -1,0 +1,21 @@
+div{
+	border:solid;
+	margin:5px;
+}
+
+#etiqueta1 #p1ofeti1{ text-align: center;/*Alinear al centro*/}
+#etiqueta1 #p2ofeti1{ text-align: right;/*Alinear a la derecha*/}
+#etiqueta1 #p3ofeti1{ text-align: left;/*Alinear a la izquierda*/}
+#etiqueta1 #p4ofeti1{ text-align: justify;/*Justificar*/}
+
+
+#etiqueta2 #p1ofeti2{ text-decoration: overline;/*Una linea sobre el texto*/}
+#etiqueta2 #p2ofeti2{ text-decoration: line-through;/*Tachar el texto*/}
+#etiqueta2 #p3ofeti2{ text-decoration:underline;/*Una linea por debajo*/}
+
+#etiqueta3 #p1ofeti3{ text-transform:uppercase;/*trasformar a mayuscula*/}
+#etiqueta3 #p2ofeti3{ text-transform:lowercase;/*transformar a minuscula*/}
+#etiqueta3 #p3ofeti3{ text-transform:capitalize;/*Poner mayuscula a la primera letra de cada palabra*/)}
+
+
+#etiqueta4 #p1ofeti4{ text-indent:50px;/*Identar el texto a 50px del borde*/}

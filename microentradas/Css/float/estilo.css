@@ -1,0 +1,43 @@
+div{
+	border: solid;
+}
+
+#block{
+	height: 280px;
+}
+
+#etiquetain-line{
+	height: 280px;
+}
+*{
+	margin: 10px;
+}
+#cuadro1{
+	float:left;
+	width: 20%;
+	background: orange;
+	height: 250px;
+}
+
+#cuadro2{
+	float: left;
+	width: 20%;
+	background: red;
+	height: 250px;
+}
+
+#cuadro3{
+	float:right;
+	width: 20%;
+	background: blue;
+	height: 250px;
+	
+}
+
+#cuadro4{
+	float:right;
+	width: 20%;
+	background: yellow;
+	height: 250px;
+	
+}

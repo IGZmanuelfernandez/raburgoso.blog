@@ -1,0 +1,28 @@
+div{
+	border: solid;
+}
+
+#etiqueta1{
+	margin: 30px; /*margen para todo los lados*/
+	border: solid;
+}
+
+#etiqueta2{
+	margin-top: 40px;/*margen para la parte superior de 15px*/
+	margin-right: 15px;/*margen para la parte derecha de 5px*/
+	margin-left: 5px;/*margen para la parte izquierda de 10px*/
+	margin-bottom: 20px;/*margen para la parte inferior de 20px*/
+	border: solid;
+}
+
+#etiqueta3{
+	margin:40px 15px 20px 5px;/*forma corta de mergenes diferentes para cada lado*/
+	border: solid;
+}
+
+#etiqueta4{
+	margin: 15px 5px;/*Mmargen de 15px para los lados y de 5 para superior e inferior*/
+	border: solid;
+}
+
+
